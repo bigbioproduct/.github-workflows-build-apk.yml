@@ -35,4 +35,3 @@ jobs:
         with:
           name: shubh-naam-apk
           path: build/app/outputs/flutter-apk/app-release.apk
-
